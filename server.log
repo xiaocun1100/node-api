@@ -1,0 +1,11 @@
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+服务运行在 http://localhost:3306
+当前连接的数据库： testdb
+数据库中的表： [
+  { Tables_in_testdb: 'menus' },
+  { Tables_in_testdb: 'role_menus' },
+  { Tables_in_testdb: 'roles' },
+  { Tables_in_testdb: 'user_roles' },
+  { Tables_in_testdb: 'users' }
+]
